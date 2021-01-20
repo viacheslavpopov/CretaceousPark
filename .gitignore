@@ -1,6 +1,6 @@
 *.vscode/
-*bin/
-*obj/
+*/bin/
+*/obj/
 *appsettings*
 .DS_Store
 Properties/
