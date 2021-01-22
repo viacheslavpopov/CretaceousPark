@@ -3,5 +3,4 @@
 */obj/
 *appsettings*
 .DS_Store
-Properties/
 *ValuesController.cs
