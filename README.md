@@ -4,8 +4,6 @@
 
 #### Project Began on 1.18.2021. Last updated 1.21.2021.
 
-#### By Danielle Thompson
-
 ## 📖 Description
 
 Combined dotnet API and MVC project, meant to get and post information for animals from the Cretaceous period to practice building an API.
@@ -14,8 +12,6 @@ Combined dotnet API and MVC project, meant to get and post information for anima
 ## 🐛 Known bugs
 
 - Home splash page is not fully set up, nor are all our client-side views fully set up or created - although all CRUD routes are in place.
-
-[Please report any bugs found here.](https://github.com/dani-t-codes/CretaceousPark.Solution/issues)
 
 ---
 
