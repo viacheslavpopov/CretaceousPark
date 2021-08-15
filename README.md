@@ -150,14 +150,3 @@ Feel free to explore the API endpoints in Postman.
 Base URL: `http://localhost:5004`
 
 ---
-
-## 📫 Contact
-
-Find me at...
-
-- [Github](https://github.com/dani-t-codes/)
-Email: danithompson74 [at] gmail.com
-
-## License
-
-_MIT_ Copyright (c) 2021 _*Danielle Thompson*_
