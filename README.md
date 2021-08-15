@@ -73,7 +73,7 @@ Incoming...
 #### Clone or Download the Project
 
 ##### To Clone
-1. Once you have Git installed on your computer, go to this (GitHub repository)[https://github.com/dani-t-codes/CretaceousPark.Solution].
+1. Once you have Git installed on your computer, go to this GitHub repository.
 2. Click the Green 'Code' button.
 3. Copy the HTTPS link, and open a Terminal or CMD on your local system.
 4. In the Terminal/CMD, navigate to your Desktop with the command `cd Desktop`.
